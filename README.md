@@ -1,2 +1,2 @@
 # Testing
-its just a trial
+its just a trial, exploring the git
